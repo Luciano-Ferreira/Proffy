@@ -15,11 +15,11 @@
 
 ## :rocket: Tecnologias utilizadas
 
-[express](https://expressjs.com/)
-[knex](http://knexjs.org/)
-[typescript](https://www.typescriptlang.org/)
-[sqlite3](https://www.sqlite.org/index.html)
-[cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
+- [express](https://expressjs.com/)
+- [knex](http://knexjs.org/)
+- [typescript](https://www.typescriptlang.org/)
+- [sqlite3](https://www.sqlite.org/index.html)
+- [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Controle_Acesso_CORS)
 
 ### Pré-requisitos
 
