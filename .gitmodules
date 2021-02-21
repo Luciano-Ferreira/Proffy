@@ -4,6 +4,7 @@
 [submodule "Proffy-mobile"]
 	path = Proffy-mobile
 	url = https://github.com/Luciano-Ferreira/Proffy-mobile
-[submodule "Proffy-NodeJS"]
-	path = Proffy-NodeJS
-	url = https://github.com/Luciano-Ferreira/Proffy-NodeJS
+	
+[submodule "Proffy-Node"]
+	path = Proffy-Node
+	url = https://github.com/Luciano-Ferreira/Proffy-Node
