@@ -1,6 +1,3 @@
-[submodule "Proffy-NodeJS"]
-	path = Proffy-NodeJS
-	url = https://github.com/Luciano-Ferreira/Proffy-NodeJS
 [submodule "Proffy-ReactJS"]
 	path = Proffy-ReactJS
 	url = https://github.com/Luciano-Ferreira/Proffy-ReactJS
