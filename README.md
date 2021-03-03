@@ -1,5 +1,5 @@
 
-# Proffy
+<img src="./assets/logo.svg" align="center">
 
 ---
 <div align="center" >
