@@ -1,11 +1,8 @@
+
 # Proffy
-<div>
-    <p align="left">
-    <img src="assets/prffy.gif" alt="demo"></img>
-    </p>
-    <p align="right">
-    <img src="assets/proffymobiletest.gif" alt="demo"></img>
-    </p>
+<div align="center" >
+  <img src="./assets/prrffy.gif" alt="demo-mobile" height="425">
+  <img src="./assets/proffymobiletest.gif" alt="demo-web" height="425">
 </div>
 
 # Proffy Web
