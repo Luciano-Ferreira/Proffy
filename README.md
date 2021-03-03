@@ -87,3 +87,10 @@ $ npm run start
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy-Fullstack/blob/main/LICENSE) for more information.
+
+---
+
+Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lucianof-silva/)
