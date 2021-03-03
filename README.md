@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="./assets/logo.svg" alt="Proffy">
+</div>
 
-<img src="./assets/logo.svg" align="center">
 
 ---
 <div align="center" >
