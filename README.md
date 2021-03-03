@@ -1,3 +1,39 @@
+# Proffy
+<p align="left">
+ <img src="github/prffy.gif" alt="demo"></img>
+</p>
+
+<p align="right">
+ <img src="proffymobiletest.gif" alt="demo"></img>
+</p>
+
+# Proffy Web
+
+## :rocket: Tecnologias utilizadas
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [StyleSheet](https://reactnative.dev/docs/stylesheet)
+- [typescript](https://www.typescriptlang.org/)
+- [React-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [vector icons](https://icons.expo.fyi/)
+- [axios](https://github.com/axios/axios)
+
+# Proffy-mobile
+
+
+## :rocket: Tecnologias utilizadas
+
+- [React Native](https://reactnative.dev/)
+- [StyleSheet](https://reactnative.dev/docs/stylesheet)
+- [typescript](https://www.typescriptlang.org/)
+- [Gesture handler](https://docs.swmansion.com/react-native-gesture-handler/docs/)
+- [AsyncStorage](https://www.npmjs.com/package/@react-native-community/async-storage)
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [React navigation](https://reactnavigation.org/)
+- [vector icons](https://icons.expo.fyi/)
+- [axios](https://github.com/axios/axios)
+
 # NodeJS
 
 ## Estrutura do projeto
