@@ -1,10 +1,10 @@
 # Proffy
 <p align="left">
- <img src="github/prffy.gif" alt="demo"></img>
+ <img src="assets/prffy.gif" alt="demo"></img>
 </p>
 
 <p align="right">
- <img src="proffymobiletest.gif" alt="demo"></img>
+ <img src="assets/proffymobiletest.gif" alt="demo"></img>
 </p>
 
 # Proffy Web
