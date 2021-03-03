@@ -1,7 +1,7 @@
 
 # Proffy
 <div align="center" >
-  <img src="./assets/prrffy.gif" alt="demo-mobile" height="425">
+  <img src="./assets/prffy.gif" alt="demo-mobile" height="425">
   <img src="./assets/proffymobiletest.gif" alt="demo-web" height="425">
 </div>
 
