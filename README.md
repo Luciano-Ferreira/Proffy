@@ -1,11 +1,12 @@
 # Proffy
-<p align="left">
- <img src="assets/prffy.gif" alt="demo"></img>
-</p>
-
-<p align="right">
- <img src="assets/proffymobiletest.gif" alt="demo"></img>
-</p>
+<div>
+    <p align="left">
+    <img src="assets/prffy.gif" alt="demo"></img>
+    </p>
+    <p align="right">
+    <img src="assets/proffymobiletest.gif" alt="demo"></img>
+    </p>
+</div>
 
 # Proffy Web
 
