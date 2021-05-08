@@ -38,7 +38,7 @@
 - [vector icons](https://icons.expo.fyi/)
 - [axios](https://github.com/axios/axios)
 
-# [NodeJS](https://github.com/Luciano-Ferreira/Proffy-Node)
+# [Proffy-Node](https://github.com/Luciano-Ferreira/Proffy-Node)
 
 ## Estrutura do projeto
 
