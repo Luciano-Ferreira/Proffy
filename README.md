@@ -9,9 +9,9 @@
   <img src="./assets/proffymobiletest.gif" alt="demo-web" height="425">
 </div>
 
-# [Preview](https://proffy-react-js.vercel.app/)
+# [Preview Web](https://proffy-react-js.vercel.app/)
 
-# [Proffy Web](https://proffy-react-js.vercel.app/)
+# [Proffy Web](https://github.com/Luciano-Ferreira/Proffy-ReactJS)
 
 ## :rocket: Tecnologias utilizadas
 
@@ -23,7 +23,7 @@
 - [vector icons](https://icons.expo.fyi/)
 - [axios](https://github.com/axios/axios)
 
-# Proffy-mobile
+# [Proffy-mobile](https://github.com/Luciano-Ferreira/Proffy-mobile)
 
 
 ## :rocket: Tecnologias utilizadas
@@ -38,7 +38,7 @@
 - [vector icons](https://icons.expo.fyi/)
 - [axios](https://github.com/axios/axios)
 
-# NodeJS
+# [NodeJS](https://github.com/Luciano-Ferreira/Proffy-Node)
 
 ## Estrutura do projeto
 
