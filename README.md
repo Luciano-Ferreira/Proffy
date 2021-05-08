@@ -9,9 +9,9 @@
   <img src="./assets/proffymobiletest.gif" alt="demo-web" height="425">
 </div>
 
-# (Preview)[https://proffy-react-js.vercel.app/]
+# [Preview](https://proffy-react-js.vercel.app/)
 
-# (Proffy Web)[https://proffy-react-js.vercel.app/]
+# [Proffy Web](https://proffy-react-js.vercel.app/)
 
 ## :rocket: Tecnologias utilizadas
 
